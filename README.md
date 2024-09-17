@@ -16,6 +16,8 @@
 
 💬 In my spare time, I tinker with Arduino's and designing/fabricating custom PCBs, I run a small Lighting store over at https://eoslighting.uk/ , and I mainly tinker with personal data projects that I might find useful in my day-to-day. Insights don't have to be only for businesses!
 
+On my GitHub, you will find all manner of projects, from data analysis to test programs for my PCBs to new lighting prototypes/concepts that I may add to the store.
+
 📫 You can reach me either on my website: www.kembledatasolutions.co.uk/ or on LinkedIn: https://www.linkedin.com/in/willoughby-kemble-020891215/
 
 <!--
