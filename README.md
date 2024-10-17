@@ -1,6 +1,6 @@
 ## Hi there 👋
 ---
-⚡ I'm Willoughby; Data Analyst and Business Intelligence Analyst/Developer. I've worked with a variety of technologies, including: 
+⚡ I'm Will; Data Analyst and Business Intelligence Analyst/Developer. Technologies I've worked with: 
 * Microsoft Power BI
 * Kibana
 * ThoughtSpot
@@ -10,7 +10,7 @@
 * Microsoft Fabric
 
 🔭 I'm a certified Microsoft Power BI Data Analyst Associate and particularly specialise in, as you might have guessed, Power BI and SQL (with an emphasis on MSSQL Server). I have worked as a:
-* Problem Analyst - supporting the Problem Management team and delivering insights on product stability, usage, error frequency to key stakeholders. During my tenure, I worked with SQL Server, MySQL, Excel, Elastic/Kibana, Grafana and Python.
+* Problem Analyst - supporting the Problem Management team and delivering insights on product stability, usage, error frequency to key stakeholders. I worked with SQL Server, MySQL, Excel, Elastic/Kibana, Grafana and Python.
 * Application Support Engineer - Working for the Engineering department, my time here was split between resolving application incidents and delivering insights to the Engineering department to help drive decision making around the products we offered. During my tenure, I worked with SQL Server, ThoughtSpot, Python, Power BI and Microsoft Azure. 
 * Freelance Business Intelligence consultant - Essentially working with a variety of clients on a variety of different business needs. Whether it's building new reports and dashboards, or troubleshooting and resolving issues with existing reports, no job is too big or too small. 
 
@@ -19,18 +19,3 @@
 On my GitHub, you will find all manner of projects, from data analysis to test programs for my PCBs to new lighting prototypes/concepts that I may add to the store.
 
 📫 You can reach me either on my website: www.kembledatasolutions.co.uk/ or on LinkedIn: https://www.linkedin.com/in/willoughby-kemble-020891215/
-
-<!--
-**WillO-K/WillO-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
